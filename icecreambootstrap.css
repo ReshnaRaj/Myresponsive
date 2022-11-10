@@ -1,0 +1,47 @@
+
+/* #logo{
+    position: absolute;
+    right:100px;
+    top: -50px;
+} */
+/* .carousel-item{
+    
+    background-image: url(asset\ 20.jpeg);
+    height: 80vh;
+}  */
+.fimage{
+    background-image: url("asset 21.jpeg");
+    background-position: center;
+    
+    height:500px ;
+    width: 100%;
+    /* background-repeat: no-repeat;
+    background-position: center;  */
+    background-size: cover;
+    margin-top: 50px;
+}
+
+
+
+
+
+
+h3
+{
+    font-style: normal;
+    font-size: 15px;
+    color: white;
+    margin: 20px 0;
+
+}
+
+
+
+h4{
+    padding-top: 330px;
+}
+
+
+
+
+
